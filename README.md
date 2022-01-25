@@ -15,5 +15,5 @@ You will need XeLaTex (pdfLaTeX will not work because of the different fonts use
 
 You latex file can be compiled the following way:
 ```
-xelatex example.tex
+xelatex resume.tex
 ```
